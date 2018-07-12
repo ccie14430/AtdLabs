@@ -1,0 +1,10 @@
+---
+
+snmp:
+  contact: NotMe
+  location: NotHere
+  communities:
+    - community: NotPublic
+      type: ro
+    - community: NotOps
+      type: ro

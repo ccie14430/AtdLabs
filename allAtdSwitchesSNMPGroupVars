@@ -1,0 +1,10 @@
+---
+
+snmp:
+  contact: Me
+  location: Here
+  communities:
+    - community: public
+      type: ro
+    - community: ops
+      type: ro
